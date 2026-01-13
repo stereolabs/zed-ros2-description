@@ -1,7 +1,9 @@
 <h1 align="center">
    <img src="./images/Picto+STEREOLABS_Black.jpg" alt="Stereolabs" title="Stereolabs" /><br \>
-   ROS 2 Interfaces
+   ROS 2 Description package for ZED Cameras
 </h1>
+
+# The `zed_description` package 
 
 The `zed-ros2-description` repository installs the `zed_description` ROS2 package which defines the ZED Camera models to be used with the  [ZED ROS2 Wrapper](https://github.com/stereolabs/zed-ros2-wrapper) and [ZED ROS2 Examples](https://github.com/stereolabs/zed-ros2-examples).
 
