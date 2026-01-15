@@ -2,8 +2,8 @@
 Changelog for package zed_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2026-01-15)
+------------------
 * Fix CONTRIBUTING
 * Fix ROS2 occurrences
 * Fix README
