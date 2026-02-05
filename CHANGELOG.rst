@@ -2,8 +2,8 @@
 Changelog for package zed_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.1.2 (2026-02-05)
+------------------
 * Merge pull request `#1 <https://github.com/stereolabs/zed-ros2-description/issues/1>`_ from pucciland95/main
   URDF xacro and mesh path fix
 * Fix file path in CMakeLists.txt for extra files target
