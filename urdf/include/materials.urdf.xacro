@@ -35,6 +35,9 @@
     <material name="zedxm_mat">
         <color rgba="0.25 0.25 0.25 1.0"/>
     </material>
+    <material name="zedxnano_mat">
+        <color rgba="0.25 0.25 0.25 1.0"/>
+    </material>
     <material name="zedxhdr_mat">
         <color rgba="0.25 0.25 0.25 1.0"/>
     </material>
