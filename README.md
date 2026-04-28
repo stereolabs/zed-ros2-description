@@ -69,6 +69,6 @@ You can visualize the 3D model of each camera in Rviz2 (without starting a ZED R
 ros2 launch zed_description zed_viz.launch.py camera_model:=<camera_model>
 ```
 
-where `camera_model` can be one of 'zed', 'zedm', 'zed2', 'zed2i', 'zedx', 'zedxm', 'zedxhdrmini', 'zedxhdr', 'zedxhdrmax','zedxonegs','zedxone4k','zedxonehdr'.
+where `camera_model` can be one of 'zed', 'zedm', 'zed2', 'zed2i', 'zedx', 'zedxm', 'zedxnano', 'zedxhdrmini', 'zedxhdr', 'zedxhdrmax','zedxonegs', 'zedxones', 'zedxone4k','zedxonehdr'.
 
 > :pushpin: **Note**: This command must be used only to debug the correct URDF behaviors. It does not start a working ZED node.
