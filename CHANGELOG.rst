@@ -2,8 +2,8 @@
 Changelog for package zed_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.5 (2026-05-05)
+------------------
 * Fix material issue
   Apply againg PR https://github.com/stereolabs/zed-ros2-wrapper/pull/405 to fix the issue https://github.com/stereolabs/zed-ros2-description/issues/2
 * Contributors: Walter Lucetti
