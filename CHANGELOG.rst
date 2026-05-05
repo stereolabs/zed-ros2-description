@@ -2,6 +2,12 @@
 Changelog for package zed_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Fix material issue
+  Apply againg PR https://github.com/stereolabs/zed-ros2-wrapper/pull/405 to fix the issue https://github.com/stereolabs/zed-ros2-description/issues/2
+* Contributors: Walter Lucetti
+
 0.1.4 (2026-04-28)
 ------------------
 * Add ZED X One S model and description
