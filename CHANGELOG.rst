@@ -2,8 +2,8 @@
 Changelog for package zed_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.0 (2026-10-07)
+------------------
 * Fix URDF offset for some camera models
   * Fix optical frame offset values
 * Add zexconecore
