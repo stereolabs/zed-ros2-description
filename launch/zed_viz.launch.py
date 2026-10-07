@@ -106,7 +106,7 @@ def generate_launch_description():
                 	'zedx', 'zedxm', 'zedxnano',
                 	'zedxhdr', 'zedxhdrmini', 'zedxhdrmax', 
                 	'virtual', 
-                	'zedxonegs', 'zedxones', 'zedxone4k', 'zedxonehdr'
+                	'zedxonegs', 'zedxones', 'zedxone4k', 'zedxonehdr', 'zedxonecore'
                 ]),
             OpaqueFunction(function=launch_setup)
         ]
