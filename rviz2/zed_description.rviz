@@ -4,6 +4,7 @@ Panels:
     Name: Displays
     Property Tree Widget:
       Expanded:
+        - /Grid1
         - /TF1
         - /TF1/Frames1
         - /TF1/Tree1
@@ -31,7 +32,7 @@ Visualization Manager:
   Class: ""
   Displays:
     - Alpha: 0.5
-      Cell Size: 0.10000000149011612
+      Cell Size: 0.004999999888241291
       Class: rviz_default_plugins/Grid
       Color: 60; 60; 64
       Enabled: true
@@ -45,7 +46,7 @@ Visualization Manager:
         Y: 0
         Z: 0
       Plane: XY
-      Plane Cell Count: 20
+      Plane Cell Count: 50
       Reference Frame: <Fixed Frame>
       Value: true
     - Alpha: 0.8999999761581421
@@ -71,15 +72,23 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-        zed_camera_frame:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-        zed_camera_frame_optical:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
         zed_camera_link:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        zed_left_camera_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        zed_left_camera_frame_optical:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        zed_right_camera_frame:
+          Alpha: 1
+          Show Axes: false
+          Show Trail: false
+        zed_right_camera_frame_optical:
           Alpha: 1
           Show Axes: false
           Show Trail: false
@@ -98,11 +107,15 @@ Visualization Manager:
         All Enabled: true
         zed_camera_center:
           Value: true
-        zed_camera_frame:
-          Value: true
-        zed_camera_frame_optical:
-          Value: true
         zed_camera_link:
+          Value: true
+        zed_left_camera_frame:
+          Value: true
+        zed_left_camera_frame_optical:
+          Value: true
+        zed_right_camera_frame:
+          Value: true
+        zed_right_camera_frame_optical:
           Value: true
       Marker Scale: 0.10000000149011612
       Name: TF
@@ -112,8 +125,11 @@ Visualization Manager:
       Tree:
         zed_camera_link:
           zed_camera_center:
-            zed_camera_frame:
-              zed_camera_frame_optical:
+            zed_left_camera_frame:
+              zed_left_camera_frame_optical:
+                {}
+            zed_right_camera_frame:
+              zed_right_camera_frame_optical:
                 {}
       Update Interval: 0
       Value: true
@@ -163,25 +179,25 @@ Visualization Manager:
   Views:
     Current:
       Class: rviz_default_plugins/Orbit
-      Distance: 0.10685177892446518
+      Distance: 0.22806909680366516
       Enable Stereo Rendering:
         Stereo Eye Separation: 0.05999999865889549
         Stereo Focal Distance: 1
         Swap Stereo Eyes: false
         Value: false
       Focal Point:
-        X: 0.017881514504551888
-        Y: -0.000881861662492156
-        Z: 0.014768394641578197
-      Focal Shape Fixed Size: true
+        X: -0.01582868956029415
+        Y: -0.009457609616219997
+        Z: 0.01788010634481907
+      Focal Shape Fixed Size: false
       Focal Shape Size: 0.05000000074505806
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Pitch: 0.36039841175079346
+      Pitch: 0.7853981852531433
       Target Frame: <Fixed Frame>
-      Value: Orbit (rviz)
-      Yaw: 0.8203979730606079
+      Value: Orbit (rviz_default_plugins)
+      Yaw: 0.7853981852531433
     Saved: ~
 Window Geometry:
   Displays:

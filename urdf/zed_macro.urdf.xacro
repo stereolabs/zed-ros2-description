@@ -32,7 +32,7 @@
       <xacro:property name="bottom_slope" value="0.05" />
       <xacro:property name="screw_offset_x" value="0.0" />
       <xacro:property name="screw_offset_z" value="0.0" />
-      <xacro:property name="optical_offset_x" value="-0.01" />
+      <xacro:property name="optical_offset_x" value="-0.005" />
       <xacro:property name="mono" value="false" />
       <xacro:property name="mat" value="0.8 0.8 0.8 1.0" />
     </xacro:if>
@@ -52,7 +52,7 @@
       <xacro:property name="bottom_slope" value="0.05" />
       <xacro:property name="screw_offset_x" value="0.0" />
       <xacro:property name="screw_offset_z" value="0.0" />
-      <xacro:property name="optical_offset_x" value="-0.01" />
+      <xacro:property name="optical_offset_x" value="-0.005" />
       <xacro:property name="mono" value="false" />
       <xacro:property name="mat" value="0.25 0.25 0.25 1.0" />
     </xacro:if>
@@ -62,7 +62,7 @@
       <xacro:property name="bottom_slope" value="0.0" />
       <xacro:property name="screw_offset_x" value="-0.01" />
       <xacro:property name="screw_offset_z" value="0.0" />
-      <xacro:property name="optical_offset_x" value="-0.01" />
+      <xacro:property name="optical_offset_x" value="-0.005" />
       <xacro:property name="mono" value="false" />
       <xacro:property name="mat" value="0.25 0.25 0.25 1.0" />
     </xacro:if>
@@ -72,7 +72,7 @@
       <xacro:property name="bottom_slope" value="0.0" />
       <xacro:property name="screw_offset_x" value="0.0" />
       <xacro:property name="screw_offset_z" value="-0.016" />
-      <xacro:property name="optical_offset_x" value="-0.01" />
+      <xacro:property name="optical_offset_x" value="-0.005" />
       <xacro:property name="mono" value="false" />
       <xacro:property name="mat" value="0.25 0.25 0.25 1.0" />
     </xacro:if>
@@ -82,7 +82,7 @@
       <xacro:property name="bottom_slope" value="0.0" />
       <xacro:property name="screw_offset_x" value="0.0" />
       <xacro:property name="screw_offset_z" value="-0.016" />
-      <xacro:property name="optical_offset_x" value="-0.01" />
+      <xacro:property name="optical_offset_x" value="-0.005" />
       <xacro:property name="mono" value="false" />
       <xacro:property name="mat" value="0.25 0.25 0.25 1.0" />
     </xacro:if>
@@ -92,7 +92,7 @@
       <xacro:property name="bottom_slope" value="0.0" />
       <xacro:property name="screw_offset_x" value="0.0" />
       <xacro:property name="screw_offset_z" value="-0.016" />
-      <xacro:property name="optical_offset_x" value="-0.01" />
+      <xacro:property name="optical_offset_x" value="-0.005" />
       <xacro:property name="mono" value="false" />
       <xacro:property name="mat" value="0.25 0.25 0.25 1.0" />
     </xacro:if>
@@ -102,7 +102,7 @@
       <xacro:property name="bottom_slope" value="0.0" />
       <xacro:property name="screw_offset_x" value="0.0" />
       <xacro:property name="screw_offset_z" value="-0.01525" />
-      <xacro:property name="optical_offset_x" value="-0.01" />
+      <xacro:property name="optical_offset_x" value="-0.0035" />
       <xacro:property name="mono" value="false" />
       <xacro:property name="mat" value="0.25 0.25 0.25 1.0" />
     </xacro:if>
@@ -112,7 +112,7 @@
       <xacro:property name="bottom_slope" value="0.0" />
       <xacro:property name="screw_offset_x" value="0.0" />
       <xacro:property name="screw_offset_z" value="-0.016" />
-      <xacro:property name="optical_offset_x" value="-0.01" />
+      <xacro:property name="optical_offset_x" value="-0.005" />
       <xacro:property name="mono" value="false" />
       <xacro:property name="mat" value="0.25 0.25 0.25 1.0" />
     </xacro:if>
@@ -122,7 +122,7 @@
       <xacro:property name="bottom_slope" value="0.0" />
       <xacro:property name="screw_offset_x" value="0.0" />
       <xacro:property name="screw_offset_z" value="-0.016" />
-      <xacro:property name="optical_offset_x" value="-0.01" />
+      <xacro:property name="optical_offset_x" value="-0.005" />
       <xacro:property name="mono" value="false" />
       <xacro:property name="mat" value="0.25 0.25 0.25 1.0" />
     </xacro:if>
